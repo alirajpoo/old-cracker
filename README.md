@@ -12,5 +12,9 @@ pip2 install mechanize
 
 pkg install git
 
-git clone 
+git clone https://github.com/alirajpoo/old-cracker
+
+cd old-cracker
+
+python Ali-1.py
 
